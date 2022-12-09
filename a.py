@@ -1,3 +1,5 @@
+# script used to automate file creation
+
 import os 
 
 for i in range(51, 101):
