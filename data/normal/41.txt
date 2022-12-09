@@ -1,0 +1,58 @@
+11 Words That Will Make You Sound Like an Experienced Programmer
+Even if you are a junior programmer.
+
+Photo by Marília Castelli on Unsplash
+Programming has many jargons that will confuse you even if you are their project manager or a junior new to the group. It’s OK because I also don’t know every term in this industry as a programmer.
+
+Today, I listed down the words that will make you look like an experienced programmer, even if you’re new in the programming world.
+
+1. The master branch
+If several developers work on a project, they have a “master” branch, the main branch. It centralizes the “clean” code, ready to be deployed on the servers.
+
+This branch is put online in the “ pre-production” (or pre-prod for short) environments so that the project managers do their tests and check that everything is working well. Once the tests have been validated, we deploy them in production (“in production ”) for the end users.
+
+2. Merge on Master
+If we want to code a new feature, we create a new branch that starts from “master.” We then test what is done on this new branch. Once it is validated, we “ merge on master ” we make this new functionality available to everyone on the main unit. At that point, the developer is so happy to have made something work that he shouts in the open space, “That’s it, I merge!”
+
+3. Git push / Git pull
+When you Git push, you make the code you have developed on your machine available on a Git branch so that everyone can access it if needed. Conversely, you can retrieve a piece of code from another branch: you then do a “git pull.”
+
+Besides, let’s talk about “machine” It’s a word we like in this environment. You might think we’re super modern, but we still discuss your PC/Mac as a machine! This is also certainly what the Minitel was called in the past.
+
+4. I’m pushing my branch
+That’s it. The day is over, the code is clean and functional, and I “push my branch.” It is necessary to avoid pushing directly on the master: we do not mess with the main branch! You have to prefer to do your branch and push your day’s work on it, whether it’s finished or not, to save it (elsewhere than on your “machine” in case it catches fire during the night).
+
+5. Pull Request (PR)
+Once all the code is ready, two options are available to the developer:
+
+Merge your code directly: I remind you to send your code directly to the main branch. You have to be sure of your shot if you do that! The best is still not to choose this option;
+Make a pull request (the famous PR!). Simply put, it allows you to submit your code to someone else (your lead dev, for example) so that they can check it and test it on their PC. If everything is good, he validates the PR and gives you his agreement to merge the code on the master.
+6. Framework
+The framework is a set of tools configured to structure the code, a kind of pattern, to establish the architecture of the software. Therefore, copying the same data when starting a new project is unnecessary since they are standardized according to the programming language used.
+
+Each programming language has different frameworks since its architecture model is specific to it. It’s a bit the same thing with our languages.
+
+7. Library
+The library, on the other hand, is a kind of collection of ready-to-use code to quickly code functionalities, and modules, for the software.
+
+8. “Empty your cache.”
+The cache is a temporary local copy of the information to facilitate and accelerate new access to this data. A copy of certain data (CSS, HTML, for example) is kept in the cache so that you don’t have to re-load them each time you change pages on the same site.
+
+If the developer changes the code, he has to update the cache / clear the cache otherwise, the change will not appear. Sometimes it’s just that stupid, but it takes 15 minutes to get rid of it, realizes!
+
+9. DB
+The DB is the database, in other words: the database! I’m not telling you anything: in databases, we store data! The databases themselves take care of creating, updating, deleting, and searching for data at the user’s request.
+
+You may hear of SQL or MySQL. They allow you to create databases and tables, query databases, update them, manage database user rights, etc.
+
+MySQL is a version of SQL, a free implementation usable with PHP in particular. SQL is also the language of many other database software.
+
+10. Web service
+A web service is a protocol that allows applications to communicate remotely via the Internet and to exchange data. The software can then call the functions of another application. Webservices communicate through HTTP requests and are often invisible to the end user!
+
+11. CI / Continuous Integration
+CI and continuous integration are the same things. We say “CI” for Continuous Integration. It’s just (well, it’s simple when you have to write it) to integrate the changes made to the code on an ongoing basis to detect errors immediately and correct them.
+
+We develop more quickly because we avoid unpleasant surprises. A mistake made several weeks or months ago can be overlooked without continuous integration. Correcting these errors afterward would be all the more complicated and time-consuming.
+
+If you have read this article to the end, you are now equipped to live with a team of developers! You can imagine that we are only dealing with a small part of the language of the devs here and that you are spared the very technical notions.

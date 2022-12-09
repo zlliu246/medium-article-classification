@@ -1,0 +1,84 @@
+Hey Elon, this is what software engineers actually do
+
+Perhaps you have a hunch that your engineers are coasting since some haven’t checked in code for a while. You might think it makes sense to count the lines of codes (LOC) for each engineer and fire those who aren’t checking in enough. Here’s why LOC is not a great metric. As a bonus, I’ll let you in on what software engineers actually do.
+
+Note: I have never worked at Twitter, but I’ve been around the tech scene for more than a decade, was tech lead (TL) at multiple companies and am currently a senior engineer/TL at Google. As such, I’ll tailor my answers towards the duties of a senior engineer as they’re probably the ones in your eye that are overpaid per lines of code.
+
+Let’s get a few myths out of the way.
+
+Myth 1: LOC correlates with impact
+When I worked at my previous company, there were engineers whose full-time jobs were dedicated to improving app performance. A lot of that work doesn’t translate to LOC.
+
+For example:
+
+To improve the time to first user interaction (TTI), you might spend a large amount of time looking at how network requests are fulfilled, how memory is allocated and dependencies in the UI that could be decoupled. This time-consuming detective work could reveal insights like the fact that you might be able to load requests in parallel instead of in sequence, which would let the user interact with parts of the screen instead of waiting for the whole screen to finish loading.
+
+The actual change in code might be as simple as parallelizing the code using a thread pool (not always simple) but may lead to outsized metrics improvements like reduced churn (users dropping off due to long load times).
+
+Side-note: Some companies have client-side machine learning models to predict which pages a user will go to next and preload data.
+
+Myth 2: The more senior you are, the more code you write
+Senior engineers don’t necessarily code for 100% of their time. In fact, one can deliver positive impact while rarely personally committing code to the code base.
+
+As a senior engineer or tech lead on a team, you’re entrusted with technical decision making for many of your team’s projects. This means you’ll be somewhat involved in several projects at a time and typically will guide the technical conversation involving multiple engineers or teams.
+
+For any given problem, there are typically many different non-perfect solutions with varying trade-offs. A senior engineer can help weigh the impact of each and guide the team to a decision.
+
+These can take the form of:
+
+Cross-team collaboration
+Let’s say your team has an idea for integrating a chatbot to reduce the load on human support staff. Even if your team has the technical chops to build it, you’d have to work with multiple teams to pull this off:
+
+Content strategy
+
+Select help content to surface to users.
+Translate content to multiple languages.
+Frontend
+
+Work with designers to develop new components.
+Work with frontend engineers on implementation of components across web, Android and iOS.
+Backend
+
+Work with the messaging team’s backend engineers to pilot their new server-driven UI system.
+Customer support
+
+Integrate chatbot systems with human customer support (e.g. how to handoff a support case from chatbot to a human)
+Data science
+
+Investigate the opportunity size (potential impact) of this feature.
+Decide on metrics being tracked and how tracking is implemented.
+Decide on how the experiment is run and which users see it.
+As the engineering lead for the team, you’d be expected to attend these meetings to translate requirements to engineering tasks, make technical decisions, provide timelines and updates.
+
+Technical decision-making
+Once it’s decided what to do, you have to flesh out the details. This is typically done in a product requirements document (PRD) and a technical design doc.
+
+The design doc is used to drive consensus before writing any lines of code, typically by people writing comments in the doc and at a formal design review session.
+
+It will include things like:
+
+1. Sequence diagram to show how different parts of your app interact:
+
+What requests the app makes to the server.
+What RPC calls are made to other services and how they interact.
+2. User interface mockups and QA documentation
+
+3. Pseudocode: What the rough shape of the code will look like to meet the requirements.
+
+4. Launch plan
+
+How this feature will be experimented on and what success/failure look like.
+How and when to release this feature to the wider audience (100% global users).
+The on-call procedure for engineers to fix breakages.
+Code Reviews
+Now it’s time to code.
+
+A senior engineer might code themselves, or they may spend more time reviewing code of junior engineers. For a large enough project or a team with many junior folk, it’s probably more of the latter. It just depends on the project requirements and team resources.
+
+Mentorship
+At senior levels, you’re typically expected to showcase your leadership qualities in some way. This is usually enshrined in the rubric that management uses to grade you during performance reviews. Mentorship is typically 1-on-1 meetings with junior developers on the team to discuss code, pair programming, technical decisions or even non-technical topics. This may extend to career talks, although that’s usually the purview of the engineering manager.
+
+Conclusion
+Your engineers (ahem, former) are doing a lot more than slinging code into the repository. In fact, it’s probably detrimental if they’re coding without substantial upfront decision making.
+
+There are much better ways to gauge engineer efficiency, which we can talk about next time.

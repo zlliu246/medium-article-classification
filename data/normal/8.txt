@@ -1,0 +1,55 @@
+Here’s What Most Data Science Courses Don’t Teach You
+And free resources to learn them on your own.
+
+Image via Shutterstock under license to Frank Andrade
+There’s no perfect data science course in this world, but do you know what most of them don’t teach you?
+
+The not-so-obvious skills and tools you’ll need at work!
+
+Most data science courses are great to get you started with a programming language and refresh the knowledge of maths and statistics you have, but they lack a couple of modules dedicated to the skills you need to have at work that will help you work efficiently with other data scientists and get non-data scientists to understand your work.
+
+Here are three things you probably didn’t learn in a data science course (plus resources to learn them on your own).
+
+Software Engineering Practices
+As a data scientist, you’ll be writing code in programming languages such as SQL, Python, and R. Although most data science courses will help you get started with coding, they won’t teach you or focus on good practices.
+
+Good practices such as writing clean code, modular code, and how to optimize your code are very popular in software engineering. Believe it or not, these good practices will help you become a better data scientist.
+
+Here’s a simple example of what I mean by writing clean code:
+
+
+But that’s only a basic example with a few lines of code! The longer the script, the more important is to follow these good practices.
+
+What can you do to learn good software engineering practices?
+You can search for guides or tutorials to learn good software engineering practices for data science and read a book that covers all these points and gives a big picture on the topic.
+
+Here are 5 Python books that every beginner should read to go beyond the basics. I’d recommend checking the book “Clean Code in Python” in particular because it covers most of the points mentioned before.
+
+Storytelling and communication skills
+Data science courses usually teach you how to create visualizations with Python or any other tool. They sometimes even give you tips to improve the aesthetics of your graph; however, they don’t focus on the communication skills you need to develop to effectively explain your insights to others.
+
+Communication skills are very important because data scientists not only work with other data scientists but with stakeholders and coworkers who don’t have a technical background. If you try to explain things to non-data scientists using technical words and jargon, most likely they won’t understand you. In contrast, if you’re able to explain your insights in plain English, most people will understand your message.
+
+To communicate your ideas better, you not only need good visualizations, but also a great narrative and make good use of your data. This is the art of storytelling!
+
+
+Image by author
+How to develop good communication skills and learn storytelling?
+To become a good communicator, you need to learn from the best communicators. If you google “the best communicators of all time”, you’ll find excellent communicators such as Bill Clinton, Oprah Winfrey, and Ronald Reagan. You can pick one of them or any other communicator you’re a big fan of, and then watch some of their presentations to see what makes them great.
+
+On the other hand, there are good books to learn storytelling. In this article, I talk about a book named “Storytelling with Data: A Data Visualization Guide for Business Professionals” which will help you use the power of storytelling to easily explain any concept and make people engage with your presentation. In the article, you’ll also find a book with the presentation secrets of one of my favorite communicators.
+
+Collaboration tools
+As a data scientist, you’re going to work in a team on large-scale projects. This means that you’ll be using different tools to collaborate with team members in order to make things more efficient.
+
+One of the tools you need to be familiar with is Git.
+
+Git is a version control system that allows us to make adjustments to our code and track changes without breaking it. With Git we can revert back, create new independent branches, and more, so multiple data scientists can work together without stepping on each other’s toes.
+
+
+Image by author
+The reason why most data science courses don’t teach version control systems like Git is that they’re focused on developing your data science skills as an individual without considering the issues you may encounter when working in a team.
+
+The list of tools that teams use to collaborate is endless, so you should see what’s used in the company you work. That said, tools such as Git, GitHub, and Tableau are the most popular, so it’s worth learning them.
+
+Here’s Git and GitHub crash course for beginners.

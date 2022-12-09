@@ -1,0 +1,153 @@
+The Importance of Code Ownership
+Well-owned code is well-maintained code
+
+Photo by Tierra Mallorca on Unsplash
+“You write it; you own it.” It’s the philosophy of a software engineering department I once worked in. It is a great philosophy to ensure accountability for any written code.
+
+But it is easier said than done.
+
+Code ownership, though it sounds simple, is also one that can easily be left unattended over time. The consequence of it is huge. The code will become spaghetti, unmaintainable, and soon a legacy piece of $#!+ that no one can figure out how it works.
+
+Each piece of code is written by someone, so the writer is the owner, isn’t it?
+That’s a very simplistic view. It only applies to a solo project or a small team for a small project.
+
+In reality, most important and successful projects, even though they started off small, go through different phases that turn a proud shiny code into a pathetic piece of cryptic code everyone fears and despises.
+
+To know how that happens, below are the seven phases of code evolution of a project that turns ugly.
+
+1. The Birth
+The developer starts a brand new project with a well-thought architecture and clean code structure. It is a small enough project that a single developer understands the entire flow and integration.
+
+One person essentially owns the code.
+
+
+Codes are well-understood and owned by the main dev
+2. The Growth
+We start to have more developers contributing to the code. Perhaps a team of 3–5 developers. We have peer code reviews. We have code pairing. Everyone understands all parts of the code. We have a main lead developer deciding the convention to follow. Clean and consistent.
+
+The team essentially owns the code.
+
+
+Codes are well-understood and owned by the team
+3. The Reusability
+With more features added to the project, ideally, we don’t want to rewrite everything. We try to reuse as much as possible. We use approaches like Object Oriented Inheritance, refactoring common codes into some common classes.
+
+Every developer owns their own part of features, but all own the common layer. Everyone loves to use the common layer, but people try to avoid modifying it, as it can involve changing everyone else’s code too.
+
+
+No one owns the common code. Over time, the understanding of the common code fades
+4. The Federation
+Given its only one team of 3–5 developers, we don’t have enough developers able to work on all features required. The business decided to hire temporary contractors or loan team members from other projects to work on this growing project for immediate project needs.
+
+The code later is still technically owned by the team, but the team doesn’t write all code. The team members are busy with other features and cannot fully own the federated code. Contractors or loan team members left later, leaving the code partially owned.
+
+
+Federated codes are done but not owned. The team, though, has to own the federated code eventually but not fully comprehend it. This is because they have other features they are also working on, hence partially understanding the federated code.
+5. The Automation
+One smart developer got an idea to further speed up the work without having more developers. They see some boilerplates and common patterns that can be generated automatically. To simplify the automation process, they develop a sophisticated algorithmic code generator that generates code boilerplate codes.
+
+No one needs to own the generated code, as it is “well-generated.” Over time, the developer uses it but not knowing how it functions within as there’s “no need” to. The smart developer owns the code generator… but not until long… (see phase 6 below)
+
+
+Automation is great when it first starts. But the user of the generated code will slowly fade their understanding of what’s happening.
+6. The Transition
+The smart developer is smart, found a better job, and moved on. Some other team members also moved on. Perhaps the organization was restructured. The team shrank. The management decided to hire new people to fill some opening positions. Several iterations of transitions happened until the original team changed and was filled with new team members.
+
+There are many codes “owned” by the team, but none have a sense of ownership. Half of them know some of the code, but the vast majority are left there to be learned only per “needed” basic. Any code changes to it are just “patches,” as they try to avoid changing anything that is “original” since no one knows how it works.
+
+
+The transition has the worst impact on code if there’s no proper pass-down with ample time to comprehend the code. The new developers who don’t write the original code feel distant from the code. The worst is no one can easily comprehend the complex code generator.
+7. The Migration
+After a while, everyone hates working on the original codebase. Some recommended we should rewrite the entire application. Besides, there’s a new tech stack introduced. Therefore, we also need to move over to the new tech stack.
+
+However, the business understood that total rewrite is a big risk, as the application is already much used in production. It cannot afford a total rewrite that will take time and is not guaranteed to work the same as the existing application.
+
+Hence, the decision is to slowly evaluate how one can slowly migrate to a newer system while keeping the “legacy code” alive. The old “owned” code now becomes a “hot potato,” and everyone tries to avoid touching it.
+
+
+Everyone prefers to jump ship and go to work on the new codebase. The old code is now a haunted house everyone tries to avoid
+As you can see in the end, the developers now dislike working on the original code that was well intended to grow and scale.
+
+From the above, it may seem the issue was caused by “reusability,” “federation,” “automation,” and “transition,” but they are not the root cause of the issue.
+
+The fundamental issues all boil down to one general issue, “the faded sense of code ownership over time.”
+
+How Does the Sense of Code Ownership Deteriorate?
+As we see, it all started well. But as it goes over time, things go from bad to worse and spiral down. Below are a few reasons:
+
+1. Ever-increasing features
+Software that only adds and adds features but does not remove any is a time bomb. We expect the developers to continuously create more and more new features while still owning the other older features they once coded for the rest of their life.
+
+The older features soon become stale as the original coders might not have touched the code for a “long-long” time, as one is busy working on the newer features. While one still loves the code and has a sense of ownership, there’s a limit to how much one can really own.
+
+2. Everyone owns it = no one owns it
+This happens with common code. If there’s no one person or a team overseeing the common code, very soon, it will either become:
+
+a ghost town — no one would like to make changes to it, given any change might accidentally step onto other features’ toes. Soon no one knows how it works inside.
+wild-wild west — i.e., the code will mutate to be not-as-generic, where each team made their exceptional special hook and API that’s non-generic. Soon, it becomes clutter.
+3. Code it but not own it
+Some organization likes to have a group of developers that go from project to project to support each project temporarily and move on to another one. The idea is to share resources across multiple projects.
+
+While this sounds “business-friendly” to the organization as resources are shared, the challenge is, who will eventually own the code they write?
+
+Unlike a hardware product, a software product is ever-living and needs to change from time to time to ensure it is well understood and maintained. But with just “temporary” ownership of such code, soon it will become stale.
+
+4. Simplification with complication
+To help accelerate coding, sometimes developers build complex
+
+Code generators to avoid boilerplate
+Base classes or functions that suppose to simplify its usage
+These are great initiatives and can help productivity. The cost is not on building it but also on maintaining it. As it is complicated, the likelihood that the cost of maintaining it is also high, and transferring the knowledge is not easy and is often neglected.
+
+Very soon, no one will understand how it works, and no one will want to touch it.
+
+5. We will not always be there
+It’s almost guaranteed that the original developers of the code will not stay on with the project. They will either move on to another organization, a higher position, or due to company restructuring.
+
+Commonly, the entire development group changes after a few years. Without a proper transition plan, most likely, the newer batch of developers will:
+
+not understand the code as well
+not feeling any attachment to the code
+have different preferences regarding how code should be done
+With all the reasons above, likely the sense of ownership of the current code base will deteriorate
+
+How To Maintain a Good Sense of Code Ownership?
+To ensure proper ownership management, either by an individual or by a team, below are a few recommended considerations:
+
+1. Say no to shared-ownership
+No code should be left as “shared ownership.” If we want to have some common code shared generally, it should also have a developer or a team that fully owns it.
+
+The owner must maintain the code wellness, the guiding principle of contributing to the code (owned code still allows others to contribute, just like any open source).
+
+2. Clear boundary and autonomy
+The code owning should be clearly separated by a clear boundary: package, module, or repository. This avoids ambiguity, as well is easier to build a system that manages ownership. This also ensures the code is always within a manageable size for a developer or a team.
+
+While ideally, we want as much consistency across codes (e.g., the same language used), we should provide each code owner the autonomy of deciding its structure. This flexibility enables the code owner to feel more empowered to code and own it passionately and for future easier evolvement of the code as needed.
+
+3. Code, once shipped, is not done
+Code is meant to change… constantly. It requires constant maintenance and change. Code that has been left unattended for some time (e.g., 1–2 years) tends to be dated and stale. There’s always something to change and improve from time to time (e.g., library upgrade, refactoring, etc.)
+
+To ensure codes are always renewed, time should always be allocated for their improvement, while the developers work on other features. Perhaps code refactoring, improving the test, and incorporating newer development practices.
+
+4. Code deletion is healthy
+Given that each code owns and needs to be allocated time for its overhaul from time to time, each developer can only own a definite size of code.
+
+To ensure codes are maintainable, other than adding new features and new code, the business should also consider removing features that are not impactful anymore. Such removal will help reduce code that needs to be maintained. (**This is also why a clear code partition for the feature is essential for easier removal of the feature.)
+
+If we have to increase features without obsoleting any, we might need to consider getting more developers. Code maintenance is not free.
+
+5. Automation is not free
+Automation is one of the more interesting software development at the start. Working on it might be challenging, but it brings lots of fulfillment.
+
+The actual heavier cost comes later — the maintenance of it. We need to ensure someone not only owns it but fully understands it. This is to ensure any issues or enhancements needed in the future can be tackled. Such work is usually daunting for the subsequent owner who doesn’t know the automation code's context.
+
+Automation, while it seems like, once done, can do magical productivity gain, should evolve from time to time to ensure it is well maintained. The latter cost sometimes is heavier than the initial cost. Hence one needs to weigh this before getting into it.
+
+Well-Owned Code is Well-Maintained Code
+In software development, we were taught many aspects of building scalable and maintainable code, such as writing clean code, well commented, etc. These are all great software development practices that each developer needs to uphold.
+
+However, the reality is code still turns into legacy in many organizations and hence becomes a hard-to-maintain burden to the developers.
+
+In most cases, the issue is that this code is no longer well-owned. Once that happens, the code quality will spiral down, eventually becoming unmanageable.
+
+Just like any relationship, code needs constant “love.” If we continuously “nurture” it, it will continue to flourish. If not, it will grow old fast and soon come back and haunt us.

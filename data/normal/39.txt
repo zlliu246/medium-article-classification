@@ -1,0 +1,61 @@
+Why Does Twitter Need so Many Developers?
+
+“Over Capacity” — Mykl Roventine
+Much has been made lately of the impact of Elon Musk firing vast swathes of staff after his takeover of Twitter. In particular one discussion that keeps presenting itself is the question of why Twitter has many thousands of engineers — and in particular a comparison to WhatsApp is often made.
+
+First, some numbers:
+
+On average, there are around 800 million new Tweets per day.
+WhatsApp handles around 100 billion messages per day.
+Circa 2014, before being bought by Facebook, WhatsApp allegedly only had 55 employees. The repeated question is that If WhatsApp can such scale with so few employees, why does Twitter need to many.
+
+To best explore this, lets go on a journey. Your name is Elmo Mask, and you just bought WhatsApp for $44, how do we change WhatsApp so that it works like Twitter? We’ll build TwitsApp.
+
+Busy chats
+First of all, WhatsApp sets a limit of 512 people in a single group. This won’t do, part of Twitters unique appeal is the reach and amplification that can be given to a message — so we need to change this. All users in one chat group. All 400 million of them.
+
+Now each of our users has to contend with a fire hose of content that’s constantly updated and can never be seen in its entirety. The only way you can use TwitsApp is to keep up with the flow, and the only way to do that is to be online 100% of the time.
+
+Can you imagine what that would be like as the user? Just a constant high speed stream of messages, everybody seeing the same thing. There would be no way to amplify a single message it will flick past everybody’s screen in a nanosecond.
+
+Now i’m drowning
+No, we need some way now to work out what each user gets to see, and the only way to make TwitsApp appealing is if each user sees whats relevant to them and those people they’re interested in. We need to let users indicate who they are most interested in seeing content from, perhaps based on follows. That’s not just a case of bringing back groups, because we also need a way for TwitsApp to mix in new content based on the sort of content you’ve already shown interest in. So users can find new people to follow!
+
+This needs to be computed for every single one of our 400 million users, that’s hard enough without having 6,000 new messages per second to evaluate, find interested users and mix it into their home screens.
+
+So lets assume we have “messages from people you follow” and “messages on subjects similar to the ones you follow”, and we found a clever algorithm to efficiently compute what each of our 400 million users should see. Whats next? Do you want to see content based on who people you follow are replying to? Retweets?
+
+This all needs to happen in a few seconds for every message.
+
+Perhaps we need a service that will show a real time list of trending subjects — so we need to identify those subjects and list the most popular ones… repeatedly. Perhaps we want to show the messages that are relevant in your region or areas of interest.
+
+What about storage? WhatsApp doesn’t store user’s messages, they only ever live on the recipient’s phone. TwitsApp will need to be able to show you the history of messages from any given user, quickly. We’ll need a lot of storage.
+
+We’re going to need some help here.
+
+Who’s paying for this?
+Sir, I’ve had the bill from the hosting provider, we need a way to monetise all of this so that we can pay for all the sheer compute power, storage, and bandwidth we’ve used up so far, let alone all the smart people to build and run it. We’re going to do that using adverts, so we need to mix those into our timeline, but we’ve a few problems before we even get to that.
+
+The first step is that we need to get adverts into the system. We’ll need some tools to allow advertisers to create and manage their adverts. A few small time advertisers probably won’t cut it though, we need the big ad brokers involved here — so we’re going to need a whole bunch of ad sales people.
+
+Nobody is going to buy our ad space unless we can not only target specific demographics, but also prove that the adverts are effective. We need analytics tools to demonstrate this to our customers, because remember the advertiser is the customer, the users are the product.
+
+Keeping the community happy
+TweetsApp is growing rapidly, but there’s a problem. Some of these new users are… disruptive!
+
+We need a way to deal with that, so that our advertisers aren’t associated with “spam” and “fake news”. We need a team to moderate user generated content — and that team needs tools.
+
+This team should probably also look into some of the targeted abuse and bullying we’re starting to see. Beyond simple compassion and ethics, we could get sued or lose ad revenue if we’re seen to condone or not take action on this.
+
+Do we want some system to confirm to users that the person claiming to be the politician really is the politician?
+
+Tip of the iceberg
+All this is the tip of the iceberg though, because we need to do this on a global scale, in different languages, different culture, and for people with different accessibility needs. TwitsApp needs to grow in developing markets to find new users, so it needs to be just as reliable and enjoyable a user experience on a phone with a poor data signal as it is for somebody with gigabit broadband.
+
+We need to worry about data hoarding governments demanding access to our user data, and we need to ensure that data is secure to protect our users. Does our mobile app work well in all markets, where different networks and devices are commonly used?
+
+This is just the beginning of why Twitter needs a bigger team than an app like WhatsApp, despite handling far fewer messages and interactions per day. The reality is that each of these points has in turn its own smorgasbord of considerations, trade offs, and issues.
+
+All these people will need HR, Payroll, and a team to onboard and train employees.
+
+And now my head hurts.

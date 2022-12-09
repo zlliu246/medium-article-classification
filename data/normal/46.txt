@@ -1,0 +1,64 @@
+Software Engineer Internship Experience at HERE
+
+Credits: HERE Offices
+What it’s like to be a Software Engineer Intern at HERE
+
+Interning at HERE was an amazing experience and made me appreciate how extensive layers of data power the maps we use for navigation while driving. As I reflect on the past six months I am filled with gratitude toward my team for believing in my capabilities and helping me grow technically and professionally.
+
+Here, I share my experience as a Software Engineer Intern at HERE. :p
+
+Let’s start with HERE.
+
+HERE leads the world in location technology and spatial intelligence
+HERE Technologies is a PaaS company offering an open and secure location-centric platform. Location content such as road networks, buildings, parks, and traffic patterns are captured by HERE Location Services and APIs. In addition to interior maps for around 49,000 different buildings in 45 countries, HERE offer voice-assisted navigation in 94 countries, real-time traffic information in 33 countries, and maps of nearly 200 countries. HERE is also working on self-driving technologies.
+
+I was very excited to start my professional journey with such a big company.
+
+Experienced all phases of the SDLC
+I was a newbie in the Transit Data Engineering team. I was asked to get familiar with services on the HERE developer platform, and DevOps tools like GitLab, Docker, and Kubernetes. And then I was assigned a task to build a web service with a database, containerize it using Docker and scale it using Kubernetes. Next, I started working on the End to End Improvements in an internal tool’s pipeline. This tool is used for maintaining the freshness and accuracy of transit data. The pipeline used to fail at the Convert step if the transit data had invalid references to some optional files. I had to fix these references.
+
+This task was so exciting yet challenging as there were lots of relationships among the files. But I must say, I experienced all the phases from gathering requirements to the delivery of the feature.
+
+A little context of my tasks, which you can skip :p
+
+I began by reproducing the failure and then understanding the existing behavior of the pipeline. While discussing my approach with the team, we found that since the validation of references is also done at other steps of the pipeline, I should code in the refs-cleanup library and incorporate the changes in the Convert step. After coding out the feature, I wrote unit tests using Pytest and raised 2 merge requests. My changes were approved in the code review and were merged!! 🎉🍾
+
+Next, I was assigned a task to investigate the coverage report of various cities that had a good coverage rate of public transit but somehow they were not listed on HERE’s coverage page. I used HERE’s Geocoder API to get city geometry for calculating coverage rate and city features. I presented my investigations in the Weekly Demo and was encouraged by the team to add the new coverage rate implementation.
+
+Team
+The team is incredibly helpful. Team discussions helped me come up with fresh approaches to a problem that I had overlooked. I was encouraged to ask doubts. The code reviewers helped me improve my code quality by following best practices and standards to ensure code readability.
+
+I couldn’t ask for better teammates to work with. From cool managers to talented co-workers, it’s fun to learn, work and grow. I have worked under the same roof with some of the most dedicated, talented, and caring people.
+
+I remember my manager told me “Not to hurry to start coding. Ensure that you understand the problem first, what is expected from you, reproduce the problem, and discuss your approach with the team. Once you are confident only then start coding”
+
+Very rigorous code review
+
+The hardest part was the code review. It takes less time to write code than it does to address MR comments. Even if one line of code is changed, it should be reviewed by a code reviewer before going into production. Fewer code changes are the motto.
+
+Every line of my code was read by my manager. I have to admit he has an eagle eye👀, he used to find bugs too small to notice.
+
+Software used by customers such as Amazon, BMW, and Mercedes required the code to be optimized as much as possible. The code has to be carefully cleaned before pushing it to the main branch.
+
+
+My work setup
+Meeting Time!
+
+Mondays are #workshopdays! ⚙️ and Wednesdays are #demodays! 👨‍💻
+
+My team uses workshops as a way of brainstorming ideas and information. On demo days everyone has to present their work in front of the team. People from our offices in Berlin and Mumbai join the demo online. And the Monthly All-Hands meetings are a gem💙 as employees interact with the leadership team and get business insights.
+
+I remember my first day of the workshop and demo. I listened to everyone and tried to understand what they were talking about. I was nervous for my first demo as everyone was quite experienced than me. But when I began speaking, I focused on my work and felt calmed down.
+
+Flexible working hours and Team events
+
+HERE has a flexible working policy. People have the option of working from the office or hybrid mode, or remotely (of course with approval from the Manager). I worked remotely with the team in Mumbai and Berlin. This helped me save my commute time and utilize morning hours in coding. HERE is not only about work, but it’s about fun too! We had team dinners, and monthly engagement events in which the team played games, and had fun talks.
+
+TL;DR
+
+Over the past 6 months, I’ve grown immensely thanks to the tasks I was assigned. I have been fortunate to work, learn and build my career with some of the best engineers and managers. Yes, I don’t get tired of sitting in front of my laptop for eight hours every day. Because my ability to write code is improving day by day.
+
+The more I dived into the codebase, the more I appreciated the skillfulness of the engineers who wrote it. The products and the services at HERE are truly a reflection of the great minds who work behind them.
+
+Thank you so much for reading this. Can’t wait to see what more the journey has for me!
+

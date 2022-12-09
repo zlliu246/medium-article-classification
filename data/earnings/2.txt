@@ -1,0 +1,127 @@
+This Formula Determines Your Medium Earnings
+Tweak it to earn more from writing on the platform
+
+Photo by ThisisEngineering RAEng on Unsplash
+There are tons of great reasons to publish content on Medium. Everyone’s reason is unique and personal. For me, it’s mostly about sharing my knowledge, learning about interesting new topics, and spreading awareness of my work and the work of my company and colleagues.
+
+For many, though, earning money through the Medium Partner Program is a major reason to write on the platform. Medium pays writers directly, and you can earn tens of thousands per month on Medium if you reach a high enough level. The top writer on the platform earned $49,705.40 in September 2020. So the earnings potential is definitely there if that’s one of your main reasons for writing. I don’t share my overall Medium earnings. But I received about 12,000,000 views on my stories in my first year on the platform.
+
+Want to learn way more about improving your Read Ratio, and more about your other Medium stats? Check out my course on Skillshare, which is free if you have a Skillshare membership.
+
+Medium earnings are complex, and it’s hard to know exactly how they’re calculated. I don’t work for Medium, so I don’t know exactly how their earnings algorithms work. If the algorithms are based on Machine Learning, no one may know exactly how they work — even Medium itself.
+
+That said — through publishing content on the platform for a year, writing over 200 Medium articles, getting over 12 million views, and doing a ton of research — here is the general formula which I’ve found determines your earnings on Medium:
+
+(Average Number of Member Views) * (Average Read Ratio) *(Average Article Length) * (Average Value Per Reader Minute) * (Number of Stories) = Earnings
+
+Let’s dig into each part, and see how you can optimize your process using the formula, to maximize your Medium earnings.
+
+Average Number of Member Views
+For your story to earn you money on Medium, it has to be seen. Specifically, it has to be seen by Medium members. Medium only pays you for the time that paying Medium members spend reading your stories.
+
+For that reason, external views — like those that come from non-members via search engines, third-party websites like Flipboard, Twitter, and the like — are great in terms of promoting your brand and might be a factor in determining the stories that Medium promotes to members. But external views aren’t directly earning you money. Only member views do that. That’s why the average number of member views that your stories receive is a big factor in your earnings.
+
+How do you get more members to read your stories? Firstly, make sure you’re covering topics that appeal to Medium members. Self-improvement, technology, AI, productivity, and more are all popular topics on the platform, as are creativity, tech, and finance. Always write what you know, though, and don’t pander to an audience by selecting topics based only on audience appeal. If you know nothing about AI, don’t try to write AI stories — they won’t deliver value, and your readers will see right through it.
+
+But do consider looking at the topics you understand well and determine which are the best fit for Medium’s audience. For example, I love to write about both Artificial Intelligence and food. I place my AI stories here on Medium, where I know there’s a strong appeal, and save my food stories for food-obsessed platforms, like Instagram.
+
+You can also increase member reading time by building a following on Medium. If other writers and Medium readers are following you, you’re likely to get more member views on any story you publish, because many readers who follow writers on Medium happen to be paying Medium members.
+
+It’s also helpful to keep a close eye on the stories that are chosen for Medium’s publications, and especially for communications like the weekly The Edition and the monthly Medium Writers Newsletter, both of which you’ll find in your inbox. Medium’s staff have a great sense of what the platform’s audience wants in a given moment. Looking at the pieces they choose to manually curate and highlight is a great way to see where Medium’s readers are focused.
+
+The bottom line is this: the more views you get from Medium members, the higher your earnings will be.
+
+Average Read Ratio
+It is essential to understand that more member views alone won’t get you anywhere. The quality of those views and the overall value of your Medium articles to your readers is vitally important. Why? Because Medium pays you based on your total member reading time, not necessarily based only on how many member views you receive.
+
+Imagine that you wrote an article with a super compelling headline but terrible content. Now imagine that you had a robust following on Medium. Your followers would see the compelling headline and click through to the article. But as soon as they saw the terrible content, they’d click away. You’d get a bunch of views but almost no reading time.
+
+On Medium, your story’s Read Ratio is the main metric for determining how sticky your story is or how effective it is at keeping people reading. The Read Ratio shows the percentage of readers who finish reading your entire story. In general, the higher your read ratio, the better.
+
+You should aim for a read ratio between 20% and 50%. I typically consider a ratio above 30% to be solid. Longer articles tend to have lower ratios, so don’t stress about them too much, but in general, try to keep you read ratio as high as possible.
+
+Again, the best way to keep people reading is to keep delivering value in your stories. There’s no free lunch here — you can’t trick readers into continuing to read a piece if they’re bored. That said, there are some structural things you can do in your piece to make sure readers are engaged early and stay engaged.
+
+It’s also a good idea to pare your articles down to their bare minimum form. I’ll often write an article and then cut 1,000 words or more. You have to be ruthless here. By axing unnecessary parts of your article, you ensure that there’s no filler or fluff. Your article will be more engaging, and your read ratio will soar, optimizing this aspect of the earnings formula.
+
+Want to learn way more about improving your Read Ratio, and more about your other Medium stats? Check out my course on Skillshare, which is free if you have a Skillshare membership.
+
+Average Article Length
+Again, Medium pays you based largely on total member reading time. That means you should write the longest articles you possibly can so that readers have to spend more time reading them, right?
+
+No. There’s no ideal length for an article on Medium—your articles should be exactly the length they need to be. Some stories require lots of time to tell. For example, I wrote a piece that’s a 22-minute read. Despite its length, it still has a 30% read ratio because every word in there is important to the story, without any filler at all.
+
+Likewise, I routinely write super short pieces. Specifically, a piece that teaches readers how to hard reset their frozen Fitbit. It only requires 1 minute to do this. Yet the piece has still received 6,300 views and a 69% read ratio because the one minute that readers spend engaging with it is all that’s required to tell the story.
+
+As long as your pieces are providing value to readers, they shouldn’t be any longer or shorter than they need to be for you to tell your full story. As soon as you start adding in extra words or padding your stories to artificially increase their length and bump up reading time, readers will pick up on this and stop reading. People are extremely sensitive to articles that waste their time — don’t do this.
+
+That said, there are plenty of ways to increase the average length of your articles while still adding additional value for readers. Including a few helpful things such as photos, videos, charts, illustrations to each of your stories can help get your points across while also giving readers a reason to linger on your story for longer.
+
+You can also choose to tell longer-form stories. Medium is a perfect platform for this. Unlike with social media — where most readers want to glance at a post and then move on — Medium readers come to the platform for long-form content. A recent piece by 
+Alexandra Samuel
+ about Google Drive is a 94-minute read — the length of a short book. But it shares extremely helpful information, there’s no filler, and so it’s still extremely readable at that length.
+
+You should never pad your articles to increase your average article length. By choosing topics that lend themselves to long-form writing, like deep dives, tutorials, and in-depth investigations — or adding invaluable videos, images, charts, or illustrations — you can increase your average article length and optimize this aspect of the earnings formula.
+
+Average Value Per Reader Minute
+The rest of the formula up to this point has provided a sense of how many minutes of member reading time your average story will get. But there’s another part of the picture — how much is each reader minute worth, in actual dollars and cents?
+
+Again, this varies widely across the platform, and the average value of a Medium reader minute isn’t fixed. Why? It’s likely because Medium pays you based not only on how many minutes people spent reading your pieces but also based on how many minutes those same people spent reading other pieces. The platform calls this your share of their reading time.
+
+Think about it this way. A Medium member pays $5 per month to subscribe to the platform. That $5 is then distributed to the authors of all the articles that they read during the month. Let’s suppose that a theoretical member, who we can call Member A, spends 1 minute on your article and 1 minute reading four other articles. Each of their reading minutes will be worth $1.
+
+Now let’s suppose another member, Member B, reads your article for 1 minute and doesn’t read anything else. Their 1 minute of reading time would be worth $5. Again, the average value of a reader minute is based on how engaged specific readers are across the whole platform. That’s not something you can control.
+
+Medium puts it this way:
+
+Imagine an author writes about fly fishing. She finds an audience of fly fishing enthusiasts who subscribe to Medium primarily to read her stories, meaning she receives a strong share of reading time from each of her readers. In contrast, an author who writes about a wide variety of topics might receive smaller shares from a broader audience of readers, who also read a variety of other authors. While the generalist will often earn a lot through the first total reading time part, the fly fisher is well equipped to earn through this share part — even with a smaller audience.
+
+And the value of a reader minute is probably even more complex than this, too. Medium says that reading time is a major factor in calculating earnings, but other engagement factors weigh into the mix, too. Certain members’ reading time might be weighted higher than others’. And Medium also credits reading time to writers retroactively if a non-member reads their piece and then becomes a member within 30 days.
+
+For that reason, Medium says that it’s not possible to calculate a consistent value per reader minute because;
+
+Payouts are tied to the number of active Medium members…your earnings are calculated based on a mix of factors, not a straight calculation based on word or time count…your daily views and reading time are not the only input into your daily earnings. Other components of your earnings are lagging, meaning that it may take a while for you to earn for each view.
+
+What you can do, though, is determine an average value for a reader minute on a particular story, or across a broad range of stories. Several writers like 
+J.J. Pryor
+ have done this and determined that their average value per reader minute is around 3.5 cents. I don’t obsess about these things too much, but doing a spot check of several articles, my value ranges between 3–5 cents per minute across many thousands of views.
+
+Keep in mind that the value per minute can change dramatically for a story over time. I find that reading time from early readers is often counted at a lower value than time from later readers. Early readers may be Medium fanatics who read a ton of stories, and so my share of their reading time is diluted. It’s also possible that Medium is tacking on other bonuses, like reading time for non-members who I convert to the platform, after the fact.
+
+How do you increase your value per reader minute? It’s all about the kinds of readers you attract. If you’re like Medium’s proverbial fly fishing enthusiast and you bring an audience to Medium who exclusively read your stories, your value per minute of reading time is likely to be very high.
+
+Most people don’t bring their audience to Medium. And most Medium members don’t read the work of only one author. You can, however, choose the topics that you cover to appeal to specific kinds of readers whose time tends to be more valuable.
+
+I’ve found, for example, that tech articles about specific topics can generate high-value reading time. It’s likely that some tech professionals sign up for Medium and are happy to pay $5 per month to read about a specific, niche topic — like a particular programming language they use.
+
+They pass over all the general self-improvement content, health content, and more in their Daily Digest. But if they see an article — ideally, your article — about their niche topic of interest, they’re likely to click through and read it. Because they don’t read that much, their reading time is correspondingly more valuable. Writing articles on niche topics like programming languages and fly fishing can bump up your value per reader minute.
+
+I find surprising articles tend to generate valuable reading time, too. Again, imagine a Medium reader who subscribed to the platform at some point but doesn’t read that much. Suddenly, they see your article with a surprising headline in their Daily Digest. They’re intrigued and click through. You could get their entire $5 for the month if yours is the only article they read.
+
+In short, to maximize your value per reader minute, think about what topics would grab an infrequent reader if they saw that topic in their Daily Digest. These niches, surprising, and unusually compelling topics pull in less-frequent readers whose reading time draws higher earnings.
+
+Number of Stories
+At this point, the earnings formula has given us the average value of one of your stories. But I’ve saved the best part of the formula for last — the number of stories that you write.
+
+All the other elements of the formula are areas where you have limited control. You can tweak the topics you choose, the length and structure of your stories, the kinds of audiences you draw in, and more to optimize your views, reading time, read ratios, and value per reader minute. But for all these factors, you’re still largely at the mercy of the platform, and you’re working with data that is helpful to consider in general terms but often hard to compute with specificity.
+
+There’s one factor in the formula, though, that’s totally under your control — the number of stories that you write.
+
+Writing and publishing frequently have several benefits. Publishing more stories usually leads to move views and the development of a following that drives still more views in the future. Frequent publishing also maximizes the chances that you’ll develop an unusually compelling story with a super high read ratio, often by mistake.
+
+As you write and publish more, you’re likely to get better at it, too, and to figure out the patterns of writing that appeal to your readers. This means you can write longer stories in less time, which tends to naturally increase your average story length. You’ll also likely develop a broader audience — including more infrequent readers whose reading time is especially valuable.
+
+And if you write a lot of content, you don’t need to worry about going too niche. In a single day, you might publish a niche story that appeals to a tiny handful of readers and then a general story that keeps your broader audience engaged. Again, niche content can appeal to infrequent readers, further increasing your value per reader minute, and if you write a lot of stories, niche stories won’t bother your more general followers.
+
+And of course, there’s the sheer power of volume. As long as the quality of your content — measured by how well it meets a readers’ needs and not necessarily how slick and polished it is — doesn’t suffer, publishing more stories will naturally lead to more earnings. Even if you never have a big winner, publishing more stories means creating more chances to earn each month. Over time, even low-earning stories add up.
+
+Conclusion
+To maximize each element of the earnings formula, consider the steps I’ve described. Increase your following and promote your stories to drive up views. Make your stories appealing, and pared down to essentials, to increase your read ratio. Write long-form content when you can, but never pad your stories. Lastly, make sure you appeal to a niche, infrequent readers whose reading time earns more.
+
+But at the end of the day, remember that the most important way to increase your earnings on Medium is to write content that has value to an audience and to publish it frequently. You can tweak and optimize formulas or try to reverse-engineer algorithms until the cows come home. But if you never hit Publish, you’re unlikely to earn much on Medium, or any other platform.
+
+The earnings formula I’ve described can be valuable in building an overall content strategy. But at the end of the day, all the other factors such as read ratios, time values, and the like will sort themselves out if you keep creating lots of content that your audience finds helpful.
+
+Focus, publish frequently, and you’ll see every other factor in your own earnings formula improve and see your Medium earnings increase over time.
+
+Want to learn way more about improving your Read Ratio, and more about your other Medium stats? Check out my course on Skillshare, which is free if you have a Skillshare membership.

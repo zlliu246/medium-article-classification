@@ -1,0 +1,46 @@
+How I’ve built an app for my company’s lunchtime and why we use it everyday
+Today I figured this was a story worth telling: I learnt a new, interesting framework; It made my life easier in the following months; Colleagues were at first entertained but then ended up hating both the app and me (more on this later). But hey we still use it to this day!
+
+So here’s what we do at my company: Every day, at lunchtime, we get up (some of us do take their time on this) and head all to the diner close to the office. It’s honestly one of the best part of my work day: You sit all day facing mostly your monitor while trying to make technology follow your desires, so it’s no wonder that us gathering all together and having a good chat is something I look forward doing. Also, food is fairly decent.
+
+So what’s the deal? Well, the diner does not write anything we might order down, so that’s on us. There usually is one colleague in charge of tracking down every order and then paying that at the counter. Little did I know, I would later become that person. You might write it down or store it all inside your brain, that’s really up to you. What’s no doubt is that it is a bit of a hassle for that particular person. But did things need to be this way?
+
+And now to the app
+This is where MyOrder comes to the rescue (even though it’s a very simple app) and here’s how it works: Each and everyone who makes an order, autonomously heads on the app and adds it to the list, listing what they ate. Since it is used on mobile devices 99.9% of the time, it was designed mobile-first.
+
+
+
+
+This is the page to add an order: Cart on the top, and Menu below (it’s in italian I know).
+Once you got everything in the cart, you just hit the place your order button. Optionally, you are also able to enter some notes (this comes in handy when you’ve ordered a variation of a food and you need to specify it, for instance). Once placed, you get redirected to the orders of the day, where you will admire the majestic order just sent, among your colleagues’.
+
+
+
+(left) A message confirms your order has been sent correctly. (right) The orders of the day.
+Then, when it’s time to pay, whoever in charge has a list of the orders made, grouped by item. Additionally: see that orange button over the list? It enables you to update our costs google sheet with ease. It just adds a row for that day.
+
+
+
+(left) the summary view is ideal at the counter as it groups all orders’ items. (right) you are also able to report back the receipt total.
+See what has it done? The job has now been fairly decentralised and it doesn’t all come down to one person. Also it makes thing a lot easier and quicker. Sure everyone does a little bit of work, so what? You really do just your small part!
+
+MyOrder also made it easy to handle the occasion where we would have to bring food for a colleague stuck in the office. All they have to do is enter their order and whoever in charge will be able to see it in the app and bring it to them. Easy!
+
+On the other hand, updating our costs sheet reliably has enable us to get insights on the average lunch cost per employee over time.
+
+Extra: Avatars!
+Now as I said before, this requires everybody’s collaboration, even though it takes you 2 minutes at most to enter your order. So I thought: How to make it a little bit more interesting? And that’s where avatars entered the scene. Big thank you to the designer of those wonderful icons, here is where you can get them.
+
+
+
+
+You get to choose your own special avatar on login but you can change it any time from the dropdown on the top
+To wrap it up
+For those of you interested in the stack used, here it is: The frontend was built on Gatsby, Redux RTK, Tailwind and Typescript. The database, hosting and APIs are provided by Firebase.
+
+In case you want to try out the app, check out the demo.
+
+If you are also interested in the code, you will find the open source repository here.
+
+Alright that’s all folks!
+

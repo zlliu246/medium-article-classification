@@ -1,0 +1,117 @@
+How To Rank Your Articles on Google
+SEO can save your article engagement, here’s how.
+A phone screen with Google analytics in the search bar
+Photo by Edho Pratama on Unsplash
+About a year ago, I published my first article on Medium. It flopped in the first two weeks. No joke, it received no more than 50 views.
+
+Disappointed with not gaining any traction from my hard work, I didn’t bother looking at the stats for months. Six months later, I was reviewing my older stats and something miraculous happened.
+
+Google picked it up. My first article now features on Google as the top result for the search “How to stay positive when life gets difficult.”
+
+And this came across in the stats, with over 8.3K views (8k of which were referrals) and growing daily by up to 50 views — well over a year after it’s publication date. The success of this article is completely powered by Google.
+
+My stats for the story “How to Stay Happy” — 8.3k views, of which 8k were referrals
+Now I know what you’re thinking—you want a piece of the action too.
+
+So how exactly do you rank highly on Google?
+
+If I’m being completely honest, this article ranking was a total fluke. But since then I have spent time learning the tricks of the trade to ensure the success of my future articles. This has led to me achieving a variety of top search results — including a featured snippet for the search “learning to use jealousy.”
+
+
+Without further ado: here are some Search Engine Optimisation (SEO) tips, as a good introduction to getting the ball rolling on ranking highly on Google.
+
+“Social may be sexy, but search still pays the bills.” — Tom Pick
+
+Pick Your Title Carefully
+If you’re using Medium, you have restrictions on how many keywords are related to your article. This is because you can’t control or choose the meta-data of your article. Generally, on this platform, your meta-data will be identical to your article title, excerpt, and description.
+
+That means that the main keywords that Google associates your article with are from the title and excerpt that you have given it.
+
+If your article is going to rank highly, you want it to be on key phrases that lots of people are searching for. Nobody wants to rank on a key term that no one searches for because it offers no engagement benefits.
+
+This means that you ought to pick your title carefully.
+
+You want to find a keyword that has lots of searches. But at the same time, you want one that isn’t very competitive or currently ranks low-quality content which your article will have higher engagement than, as this gives you the chance of achieving the number one spot.
+
+So it’s time to get creative and think up good title ideas. And to check how many people are searching for these key phrases, use free tools like Google Trends.
+
+If you’re struggling to think of a regularly searched key phrase, use Answer The Public for some good suggestions based around the terms or ideas you already have.
+
+To give you an example, here is how Answer the Public offers suggestions to searches similar to “How to Stay Happy:”
+
+Example search suggestions found on Answer The Public for the search “how to stay happy.”
+Title suggestions found via Answer The Public.
+If you get this right, you will be on your way to gaining well over 50 Google-powered views per day.
+
+“Today it’s not about ‘get the traffic’ — it’s about ‘get the targeted and relevant traffic.” – Adam Audette
+
+Use Your Focus Keyphrase
+A focus key phrase is the main term that you want Google to associate your article with. On Medium, it is something that should really feature in your title, as this is the phrase that we want people to find your article through.
+
+A focus keyphrase can be anything from a single word to a sentence. But to subtly add it into your article without people noticing, I tend to focus on single words.
+
+Yoast recommends mentioning your keyphrase at least once in the first paragraph of your article and at least twice in the article overall.
+
+For my first article, I used the keyphrase positive, as this ties nicely to the title and is the main focal point of the article — people are searching for something that will help them think positively.
+
+I used this keyphrase seven times throughout the article, and once in the first paragraph. A little over what Yoast suggests, but it shows that going the extra mile over the recommended guidelines will pay off in the long run.
+
+I would also avoid overdoing it. Having your key phrase repeated too many times could actually hinder your chances of ranking. To play it safe, keep your usage around the yoast recommendation of 2.
+
+Quality Control and Backlinking
+Now that you have your article associated with your intended key phrase, it’s time to work on ensuring that it ranks higher than other webpages associated with that keyphrase.
+
+So how does Google decide what ranks highest?
+
+It’s simple — quality.
+
+Of course, this is hard for Google’s algorithms to measure. So they tend to base quality on engagement rates — that is, how many people are visiting your page. They also use bounce rates, which refers to the number of people who leave your page straightaway.
+
+Thing is, no matter what quality your article is, sometimes your initial engagement rates can be rubbish. And this can hinder your chances of ranking on Google.
+
+The alternative way to tell Google that your article is of high quality is to tell them that your article is associated with high-quality content.
+
+You do this by backlinking. This is a way to tell Google that although your article doesn’t have high engagement, the pages that are associated with it do. And that implies a level of quality that Google algorithms pick up on.
+
+From experience, the best ways to backlink are:
+
+Embed your article with links to highly engaged webpages. The best way to do this is to hyperlink the sources to where you got the information from throughout your text. If you look carefully, I have done this throughout this article.
+Post elsewhere. Write a different article and post it on another, highly engaged site. Include a hyperlink to either your Medium profile (which your article is associated with) or the article itself.
+If you’re going to post elsewhere, try and post on a publication that has the same purpose and ethos as you — like self-help. But if you’re struggling, go for one that, if not the same, is at least similar. Neil Patel calls this tactic Shoulder Niching.
+
+Doing both of these things are good starting points when trying to ensure Google perceives your article as higher quality than the alternatives using that keyphrase.
+
+“Better content is outweighing more content.” — Rand Fishkin
+
+Some Final Pointers
+Before I go, let me give you a few more tips that have helped me along the way.
+
+a. Article length. Google prioritises articles that have substance. If your article has 300 words, then chances are you won’t pop up on Google any time soon. Instead, from experience, I would recommend aiming for around 1200–1900 words.
+
+b. Labelling: On top of your article title, you can tell Google to associate your work with your favoured search in the following ways:
+
+Pick a relevent image, and add a description and alt text that are both informative, and relate to your title.
+Check the URL Medium automatically generated for your article. If unsuitable, adapt a personalised URL that suits your SEO needs.
+c. Repeated content. Google hates duplicate content — that is, content that features in more than one place. If you're posting your article here, reposting it there and publishing it everywhere — then chances are that Google will discard it as duplicated. Instead, keep it exclusively on Medium, in one post.
+
+d. Patience. It sucks, but it usually takes four to six months before your hard work will start to pay off and you start to see results. That’s just the way Google and SEO work. If you aren’t seeing any benefits yet, then perhaps wait it out a little longer before making drastic changes to your article.
+
+I would also like to point out that this SEO guide is merely some introductory pointers to get you started. If you want to take things a step further, there are hundreds of online resources out there that can guide you along the way!
+
+But always aim to be the top search result, because the sad truth is —
+
+“The best place to hide a dead body is the second page of Google search.”
+
+November 2019 update.
+Remember my first ever article that I mentioned? It’s still receiving traction of around 50 views a day — and that’s all thanks to Google referrals.
+
+If you are reading this article several months after it’s publication, the likelihood is that you were referred here too.
+
+These methods are tried and tested, and after a month of publication, this article ranks on the second spot for searches with (and synonymous with) “rank Medium articles on Google.”
+
+January 2020 update.
+Since publishing this article, Medium has added some great features — which give you as a writer control over how Google perceives your work.
+
+On top of utilising the tips and tricks I have mentioned above: I recommend visiting More Settings > SEO Title and SEO description. These allow you to add relevant meta-data. Utilise your key phrase and title (along with its synonyms) and add a short little summary.
+
+If your importing work from elsewhere (such as a personal blog,) you need to tell Google that this shouldn’t be perceived as duplicate content. Do so by indicating which article should take priority: go to Settings > Advanced Settings > Canonical Links.

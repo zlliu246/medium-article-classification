@@ -1,0 +1,20 @@
+I Failed My Coding Assessment and still got an Offer — Here is how it happened
+
+Coding assessments have become very popular in recent times. A friend of mine who works at IBM was totally clueless when I asked him about how he prepared for their backend software engineering coding assessment, because even though he interviewed for the position merely a few years back, he did not have to do a coding assessment as they were not part of IBM’s application process. Well, IBM and a lot of other companies have since adopted this assessment style as part of their interview process if not their first screening for technical applicants.
+
+Companies have a mark that applicants must hit in other to move on in their application process. For some companies, this mark might be passing all test cases while others might consider other factors beside the number of test cases passed. Regardless of what metric a company uses, it is rare for an applicant to advance to the stages after the coding assessment without passing any of the test cases, or so we’ve been told.
+
+I have experienced just about any of the situations one can find him/herself in with a coding assessment. There have been times when I passed all the test cases on a coding assessment and still got reject (read about it here). There was also a time when I didn’t pass all the test cases in a coding assessment, advanced to the next level, and even got an offer! (Read about that here). The shocking of all? The time that I didn’t pass any of the test cases but still advanced to the next step in the application process for a company.
+
+Before I explain why this was possible, let me clear the air. I did not apply to this opportunity with a referral!
+
+Why didn’t I pass any of the test cases?
+Just like many students, I had been using Leetcode and Hackerrank to prepare for coding assessment, and if you are familiar with either of these platforms and ones alike, then you know that the function that calls your code to run the test cases is written for you. Your only duty on these platforms is to type in your functions to solve the problem given, you do not need to worry about how to call the test cases. It’s also worth mentioning that I wasn’t experienced in taking coding assessments.
+
+The platform for this particular assessment was quite different, and with only 30 minutes given per question, I focused on solving the problem instead of figuring out how to run the test cases. I knew beforehand that applicants were going to be given a chance to explain their solution after each problem, so I focused on putting down a working solution. I was able to write working solutions for the given problems because some of them were similar to some of the Leetcode medium questions that I had previously solved, the others were also fairly simple and straightforward. After writing my solutions, I recorded the explanations of my code and left it at that.
+
+I was not expecting to move on to the next step, because I didn’t even get to test my code against any of the test cases even though I knew I would have passed all the test cases if I had run my code against them. I didn’t have a blank IDE, and the code that I left on there was a working one as well
+
+As discussed in my previous articles, some companies do not evaluate applicants with the number of test cases passed only even though this is one of the methods used by most companies to filter out unqualified applicants. Contrary to popular belief, some companies actually take a look at the code left behind by applicants, not only that, they look at things like time and space complexities and the method used in solving the given problem.
+
+So yes, while is it rare to advance to the next stage in the application process when you don’t pass any of the test cases, it’s not entirely impossible!

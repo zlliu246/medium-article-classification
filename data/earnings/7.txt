@@ -1,0 +1,56 @@
+Medium Earnings — Do The Length Of Your Articles Matter?
+There are plenty of factors that dictate how much you earn on Medium
+I’ve been asked this question a few times (though I have no idea why) in the last couple of weeks so I thought I’d address it here with what I know. Please don’t take everything I say here for face value because I don’t work for Medium and they actually have an entire page dedicated to answer this question for you right here.
+
+But anyway, I will still share whatever knowledge I have about the topic and also explain why I think it’s that way based on my own experiences with the new MPP payment structure.
+
+This could be useful for those who may not fully understand it and especially for newcomers to the MPP.
+
+Hopefully, after you’ve read this article, you would have a rough idea on how your earnings are calculated and you can more or less plan out your articles and how long you think they should be.
+
+
+Back in October 2019, Medium sent out an email to all its MPP members stating that they would be changing their payment structure starting from November 1st, 2019.
+
+There were a few changes being made.
+
+What used to be weekly updates on your earnings, it would then change to daily updates. Meaning, you could actually know how much you’ve earned on a daily basis. Honestly, I’m still not sure if it’s better than the weekly updates but it doesn’t bother me as much so I’ve been OK with this.
+
+Then, the payment date changed too. Before, Medium would process your earnings by the 28th of the month and Stripe would then process your payments within the next 5–7 working days. It then changed to the 1st of every month. So Medium will calculate your earnings from the 1st day till the last day of the month and process it by the 8th of the following month. Stripe would still take 5–7 workings days to then process your payment.
+
+The biggest change, however, was, of course, the way your earnings were calculated. And this was a HUGE change. For some, it was a change for the better (me included) but for others, the change meant a huge loss of earnings for them.
+
+If you’re unfamiliar with how the old system worked because you may have just joined the MPP, earnings were calculated based on the claps your articles got. Bear in mind, it didn’t mean more claps = more earnings. Sometimes, fewer claps meant more money. I won’t go into details because it no longer matters. But the bigger the number of people who clapped for you, the higher your earnings, not the number of claps you get from these people.
+
+What they’ve changed is instead of measuring claps to calculate your earnings, they now measure the amount of time PAYING members spend reading your articles. Theoretically, you would automatically assume that the longer readers spent reading your article, the money you’ll earn, right? Well, logically speaking, that’s correct. And that’s why a lot of people who were heavy poets found that their earnings dropped drastically. Because poems are usually short so people don’t spend as much time reading a poem than they would for an article that’s about 5 minutes long.
+
+That being said, just because your article is long doesn’t guarantee good earnings either. What depends is how long your readers actually spent reading your article. If they’re fast readers, they could probably finish a 5 minutes article within 2 minutes. But if they’re the type that really takes their time to read, they could instead spend 8 minutes.
+
+How Medium calculates it is by measuring the time readers spend scrolling through your article. So if someone scrolls through really quickly, Medium’s algorithm will calculate that as a short read time compared to someone who takes longer to scroll.
+
+That’s one aspect of it.
+
+The other aspect is the readers themselves. You see, every reader is different. Yes, they pay the same $5 a month for their membership but how that $5 is distributed to writers really depends on the kind of reader they are.
+
+For example, if reader A spends 10% of their monthly reading time on your articles, you will get 10% of reader A’s share (10% of $5 which is $0.50). If you have reader B who spends 50% of their monthly reading time on your articles, you get 50% of reader B’s share (50% of $5 which is $2.50) and so on and so forth.
+
+So, if you have loyal readers who spend most of their monthly reading time on just your articles, you get most of their share. Imagine if you had 10 readers who spend their ENTIRE monthly reading time on just your articles. That’s 10 x $5 = $50 from just 10 readers.
+
+That’s why you can’t really equate longer member reading time to more earnings. Sometimes, when you check your stats, you may see that you got less reading time on your article today compared to yesterday, but it earned more than it did yesterday.
+
+I’ll give you an example.
+
+
+Screenshot A by author
+
+Screenshot B by author
+If you look at the 2 screenshots above, one is the stats for April 17 and the other is for April 23. You can see that on April 17, I earned more ($7.47) with less reading time (3 hours 18 mins) compared to April 18 ($6.40) when I had more reading time (3 hours 27 mins).
+
+
+Inconclusion, yes, the length of your articles do matter towards how much you could potentially earn but it is not the ONLY deciding factor, nor is it the biggest. Ultimately, who your readers are and how they spend their reading time would be the deciding factor in your earnings.
+
+Again, it all boils back down to your writing and the content of your articles. If you produce articles with content that will draw readers toward it and make them spend a good amount of time reading it, you will have a higher chance of earning more. This is especially true if you are able to attract what I call, a specific type of readers. Ones who would only read articles of a specific topic.
+
+Attract them to you and you’ll more or less have some kind of stable earnings from them.
+
+So keep writing great articles that will attract the right kind of readers for you. Remember, writing long articles won’t guarantee you great earnings. Writing great articles, however, could help you to get there.
+

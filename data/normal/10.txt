@@ -1,0 +1,74 @@
+7 Most Installed VS Code Extensions You Should Know
+Power Up Your Weapon
+
+Photo by Alexander Nrjwolf on Unsplash
+A soldier loves his weapon above all else. Developers are soldiers, and an integrated development environment(IDE) is a weapon. The most important responsibility of a soldier is to always sharpen his weapon and use it effectively. VSCode is one of the best weapons a soldier can have. Here I have compiled a list of the 7 most installed VSCode extensions that will help you in your development journey.
+
+1. Live Server
+
+With more than 26.5 million installations this extension has the most installation of any in this list. This extension helps to launch a local development server with a live reload feature for static & dynamic pages. It includes lots of other features like support for excluding files for change detection, customizable port number, server root, default browser, hot Key control, remote connection through WLAN, and many more. It has a rating of 4.5.
+
+Live Server - Visual Studio Marketplace
+Live Server loves 💘 your multi-root workspace Live Server for server side pages like PHP. Check Here Launch a local…
+marketplace.visualstudio.com
+
+2. Git Lens
+
+
+Who wrote the code?
+Git is one of the most used tools among developers. This extension supercharges the Git capabilities. It includes lots of features like a quick glimpse into whom, why, and when a line or code block was changed, jumping back through history to gain further insights as to how and why the code evolved, effortlessly exploring the history and evolution of a codebase, and many more. It has an installation of more than 17.5 million and a rating of 4.
+
+GitLens - Git supercharged - Visual Studio Marketplace
+Extension for Visual Studio Code - Supercharge Git within VS Code - Visualize code authorship at a glance via Git blame…
+marketplace.visualstudio.com
+
+3. IntelliCode
+
+This one is from Microsoft. This extension provides AI-assisted development features for Python, TypeScript/JavaScript, and Java developers in VS code. It also provides insights based on understanding your code context combined with machine learning. It has an installation of more than 22.5 million and a rating of 4.
+
+IntelliCode - Visual Studio Marketplace
+Extension for Visual Studio Code - AI-assisted development
+marketplace.visualstudio.com
+
+4. Rainbow CSV
+
+If you have to work with CSV files then this is a great plugin for you. As the name suggests this plugin allows you to highlight CSV files in various colors. It also provides lots of features like supporting commas, semicolons, pipes, tabs, and colons as a delimiter, supports double quotes, backslash as an escape character, etc. It has an installation of more than 2.1M and a rating of 5.
+
+Rainbow CSV - Visual Studio Marketplace
+Highlight columns in comma (.csv), tab (.tsv), semicolon and pipe - separated files in different colors Transform and…
+marketplace.visualstudio.com
+
+5. TODO Highlight
+
+A to-do list is something that everyone has. Sometimes we keep some tasks for later like making improvements to the code or fixing a bug. This extension will highlight them and reminds you that there are notes or things that are not done yet. It has more than 2.9M installations and a rating of 4.5.
+
+TODO Highlight - Visual Studio Marketplace
+Highlight TODO, FIXME and other annotations within your code. Sometimes you forget to review the TODOs you've added…
+marketplace.visualstudio.com
+
+6. Auto Rename Tag
+
+As the name suggests, This extension will help to automatically rename paired HTML/XML tags, the same as Visual Studio IDE does. It has an installation of more than 10.5M and a rating of 3.5.
+
+Auto Rename Tag - Visual Studio Marketplace
+Extension for Visual Studio Code - Auto rename paired HTML/XML tag
+marketplace.visualstudio.com
+
+7. Quokka
+
+With more than 1.9 million installations this extension has the lowest installation of any in this list. This is a productivity tool for developers that allows for quick JavaScript and TypeScript prototyping. With this plugin, as you type code, runtime values are updated and shown in your IDE next to it. It has a rating of 4.
+
+Quokka.js - Visual Studio Marketplace
+Extension for Visual Studio Code - JavaScript and TypeScript playground in your editor.
+marketplace.visualstudio.com
+
+Where are some other awesome resources?
+There are always new things to learn. If you want to learn more about awesome resources on Programming please check out the below link.
+
+7 Best GitHub Repositories to Learn Python
+Fasten Up your journey with Python
+medium.com
+
+That’s all for today. I hope this extension will help to make the development journey easier.
+
+If you know of any other useful VSCode extensions, please share them in the comments. Until we meet again. Cheers!
